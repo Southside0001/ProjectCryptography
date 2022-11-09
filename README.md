@@ -1,2 +1,2 @@
 # ProjectCryptography
-Open source Discord bot with cryptography features
+Open source Discord bot with cryptographic features
